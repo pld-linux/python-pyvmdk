@@ -16,7 +16,7 @@ Summary:	Python 2 bindings for libvmdk library
 Summary(pl.UTF-8):	Wiązania Pythona 2 do biblioteki libvmdk
 Name:		python-pyvmdk
 Version:	20221124
-Release:	1
+Release:	2
 License:	LGPL v3+
 Group:		Libraries/Python
 #Source0Download: https://github.com/libyal/libvmdk/releases
